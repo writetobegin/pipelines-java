@@ -1,4 +1,6 @@
 
+[![Build Status](https://newbegin.visualstudio.com/azure_devops_pipeline_test/_apis/build/status/azure_devops_pipeline_test-Maven-CI?branchName=master)](https://newbegin.visualstudio.com/azure_devops_pipeline_test/_build/latest?definitionId=1&branchName=master)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
